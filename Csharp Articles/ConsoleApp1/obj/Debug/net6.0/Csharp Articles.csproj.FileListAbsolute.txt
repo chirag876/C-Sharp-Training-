@@ -1,0 +1,15 @@
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.csproj.AssemblyReference.cache
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.AssemblyInfoInputs.cache
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.AssemblyInfo.cs
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.csproj.CoreCompileInputs.cache
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Csharp Articles.exe
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Csharp Articles.deps.json
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Csharp Articles.runtimeconfig.json
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Csharp Articles.dll
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Csharp Articles.pdb
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.dll
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Csharp Articles.dll
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.pdb
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Csharp Articles.genruntimeconfig.cache
+C:\Users\Chirag Gupta\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Csharp Articles.dll
