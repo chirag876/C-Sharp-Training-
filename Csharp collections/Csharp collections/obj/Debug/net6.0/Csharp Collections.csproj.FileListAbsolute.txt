@@ -1,0 +1,15 @@
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\bin\Debug\net6.0\Csharp Collections.exe
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\bin\Debug\net6.0\Csharp Collections.deps.json
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\bin\Debug\net6.0\Csharp Collections.runtimeconfig.json
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\bin\Debug\net6.0\Csharp Collections.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\bin\Debug\net6.0\Csharp Collections.pdb
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.csproj.AssemblyReference.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.AssemblyInfoInputs.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.AssemblyInfo.cs
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.csproj.CoreCompileInputs.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\refint\Csharp Collections.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.pdb
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\Csharp Collections.genruntimeconfig.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Collections\Csharp Collections\obj\Debug\net6.0\ref\Csharp Collections.dll
