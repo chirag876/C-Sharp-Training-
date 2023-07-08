@@ -1,0 +1,15 @@
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\bin\Debug\net6.0\Csharp Delegates.exe
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\bin\Debug\net6.0\Csharp Delegates.deps.json
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\bin\Debug\net6.0\Csharp Delegates.runtimeconfig.json
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\bin\Debug\net6.0\Csharp Delegates.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\bin\Debug\net6.0\Csharp Delegates.pdb
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.csproj.AssemblyReference.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.AssemblyInfoInputs.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.AssemblyInfo.cs
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\refint\Csharp Delegates.dll
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.pdb
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\Csharp Delegates.genruntimeconfig.cache
+C:\Users\Chirag Gupta\source\repos\Csharp Delegates\Csharp Delegates\obj\Debug\net6.0\ref\Csharp Delegates.dll
