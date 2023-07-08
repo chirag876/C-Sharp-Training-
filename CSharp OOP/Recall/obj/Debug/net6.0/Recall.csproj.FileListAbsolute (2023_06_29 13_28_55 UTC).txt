@@ -1,0 +1,15 @@
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\bin\Debug\net6.0\Recall.exe
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\bin\Debug\net6.0\Recall.deps.json
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\bin\Debug\net6.0\Recall.runtimeconfig.json
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\bin\Debug\net6.0\Recall.dll
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\bin\Debug\net6.0\Recall.pdb
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.csproj.AssemblyReference.cache
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.AssemblyInfoInputs.cache
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.AssemblyInfo.cs
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.csproj.CoreCompileInputs.cache
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.dll
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\refint\Recall.dll
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.pdb
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\Recall.genruntimeconfig.cache
+C:\Users\Roshan.Parmar\source\repos\Recall\Recall\obj\Debug\net6.0\ref\Recall.dll

@@ -1,0 +1,15 @@
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\bin\Debug\net6.0\Solid Principles.exe
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\bin\Debug\net6.0\Solid Principles.deps.json
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\bin\Debug\net6.0\Solid Principles.runtimeconfig.json
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\bin\Debug\net6.0\Solid Principles.dll
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\bin\Debug\net6.0\Solid Principles.pdb
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.csproj.AssemblyReference.cache
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.AssemblyInfoInputs.cache
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.AssemblyInfo.cs
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.csproj.CoreCompileInputs.cache
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.dll
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\refint\Solid Principles.dll
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.pdb
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.genruntimeconfig.cache
+C:\Users\Chirag Gupta\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\ref\Solid Principles.dll
